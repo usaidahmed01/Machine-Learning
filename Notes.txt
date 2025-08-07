@@ -1,0 +1,1 @@
+Prediction column ko dekhna hai just if 0 negative if 1 positive if prediction is correct true else false
